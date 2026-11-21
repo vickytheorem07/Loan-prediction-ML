@@ -1,0 +1,7 @@
+.git
+.venv
+__pycache__
+*.py[cod]
+.ipynb_checkpoints
+Train_model/dataset.csv
+Train_model/trainmodel.ipynb
